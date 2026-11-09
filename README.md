@@ -1,4 +1,20 @@
-# Armstrong Blackjack
+# Ace
+
+**1st place, Creative track, Founders Inc Physical AI Hackathon (November 2026)**
+
+Ace is a robot blackjack dealer that plays with real cards. You talk to it, say "hit" or "stand", and it talks back. Two robot arms pick up the cards and deal them onto the table, and an overhead camera reads each card so the dealer always knows what's in both hands.
+
+Built in two days by Aryan, Pablo, Junsu, Arjun and Rishith.
+
+<p>
+  <img src="docs/images/arms-dealing-table.jpg" alt="The two robot arms dealing real cards onto the table" width="49%">
+  <img src="docs/images/arms-at-station.jpg" alt="The team working at the robot arm station" width="49%">
+</p>
+
+<p>
+  <img src="docs/images/dealer-3d-table.jpg" alt="3D view of the dealer at the blackjack table, with Deal, Hit and Stand controls" width="49%">
+  <img src="docs/images/dealer-3d-arm.jpg" alt="3D view of the dealer's arm holding a card" width="49%">
+</p>
 
 ## How the robot dealer was built
 
